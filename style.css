@@ -1,0 +1,12 @@
+.mainContent {
+    /* width: 100%; */
+    background-color:aqua ;
+    margin: 100px 100px 100px 100px;
+    border: solid blue;
+    
+}
+.footerContent{
+    background-color: green;
+    /* width: 100%; */
+    padding: 100px;
+}

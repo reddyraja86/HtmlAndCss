@@ -3,10 +3,19 @@
     background-color:aqua ;
     margin: 100px 100px 100px 100px;
     border: solid blue;
+    border: 10px solid red;
     
 }
 .footerContent{
     background-color: green;
     /* width: 100%; */
     padding: 100px;
+}
+.flexmain{
+    border: 10px solid pink;
+    display: flex;
+}
+.column{
+    border: 1px solid rebeccapurple;
+    width: 100%;
 }
